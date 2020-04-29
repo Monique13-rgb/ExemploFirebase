@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "exemplofirebase-27c91": {
+      "hosting": {
+        "ExemploFirebase": [
+          "exemplofirebase-27c91"
+        ]
+      }
+    }
+  }
+}
